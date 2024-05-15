@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderAPI", "ReaderAPI\ReaderAPI.csproj", "{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A1B3A1-14B3-4798-8BE9-2059D8E8D384}
+	EndGlobalSection
+EndGlobal
