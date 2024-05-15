@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\models\\keyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\models\\keyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\models\\keyadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\models\\database\\readerexpertcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\models\\database\\readerexpertcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\models\\database\\readerexpertcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\models\\useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\models\\useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\models\\useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\models\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\models\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\models\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\source\\repos\\reader_backend\\readerapi\\models\\database\\keygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|c:\\users\\asus\\documents\\github\\readerexpert-backend\\reader_backend\\readerapi\\models\\database\\keygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCC7AEE-2ECC-4967-8518-EADEC62520C1}|ReaderAPI\\ReaderAPI.csproj|solutionrelative:readerapi\\models\\database\\keygroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "KeyGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\KeyGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\KeyGroup.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Models\\Database\\KeyGroup.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\KeyGroup.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\KeyGroup.cs",
               "RelativeToolTip": "ReaderAPI\\Models\\Database\\KeyGroup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "KeyAdd.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\KeyAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\KeyAdd.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Models\\KeyAdd.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\KeyAdd.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\KeyAdd.cs",
               "RelativeToolTip": "ReaderAPI\\Models\\KeyAdd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,11 +65,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ReaderController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Controllers\\ReaderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Controllers\\ReaderController.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Controllers\\ReaderController.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Controllers\\ReaderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Controllers\\ReaderController.cs",
               "RelativeToolTip": "ReaderAPI\\Controllers\\ReaderController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAAAjAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBUAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T20:15:31.747Z",
               "EditorCaption": ""
@@ -78,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ReaderExpertContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
               "RelativeToolTip": "ReaderAPI\\Models\\Database\\ReaderExpertContext.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAewB8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\User.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Models\\Database\\User.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\Database\\User.cs",
               "RelativeToolTip": "ReaderAPI\\Models\\Database\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,9 +102,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserAdd.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\UserAdd.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\UserAdd.cs",
               "RelativeDocumentMoniker": "ReaderAPI\\Models\\UserAdd.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\Models\\UserAdd.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\Models\\UserAdd.cs",
               "RelativeToolTip": "ReaderAPI\\Models\\UserAdd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
