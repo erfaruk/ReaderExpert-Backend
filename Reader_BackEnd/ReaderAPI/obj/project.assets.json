@@ -4529,11 +4529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\ReaderAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\ReaderAPI.csproj",
       "projectName": "ReaderAPI",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\ReaderAPI.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\ReaderAPI.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\Reader_BackEnd\\ReaderAPI\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\ReaderExpert-Backend\\Reader_BackEnd\\ReaderAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
